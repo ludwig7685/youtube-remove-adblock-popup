@@ -7,8 +7,15 @@ create a issue if you need help/have issues/other!
 Load your extension in Chrome:
 
 Open Chrome.
-Go to: \n
-chrome://extensions/ \n
-opera://extensions/ \n
+
+( Open Opera. )
+
+Go to:
+
+chrome://extensions/
+
+( opera://extensions/ )
+
 Enable "Developer mode" (toggle switch).
+
 Click on "Load unpacked" and select the directory where your extension files are located.
